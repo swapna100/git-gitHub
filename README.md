@@ -1,2 +1,2 @@
 # git-gitHub
-All git projects
+My Projects
